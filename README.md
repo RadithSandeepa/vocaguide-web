@@ -1,3 +1,3 @@
 # VocaGuide
 
-``Click Here: `` https://<Add the deployed link>
+``Click Here: `` https://radithsandeepa.github.io/vocaguide-web/
